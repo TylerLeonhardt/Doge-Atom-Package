@@ -7,9 +7,6 @@
     "doge",
     "wow"
   ],
-  "activationCommands": {
-    "atom-workspace": "doge:wow me"
-  },
   "repository": "https://github.com/tylerl0706/Doge-Atom-Package",
   "license": "MIT",
   "engines": {

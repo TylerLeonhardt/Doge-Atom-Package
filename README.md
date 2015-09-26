@@ -7,3 +7,13 @@ _Much Atom. So text. wow._
 ![wow](/assets/screen_shot.png)
 
 ## Installation
+
+You can install the plugin using the following command:
+
+`apm install doge`
+
+or you can go to `preferences -> install` and search for:
+
+`doge`
+
+then simply install it!
