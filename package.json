@@ -1,7 +1,7 @@
 {
   "name": "doge",
   "main": "./lib/doge",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "such atom. wow.",
   "keywords": [
     "doge",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
