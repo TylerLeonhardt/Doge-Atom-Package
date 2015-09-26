@@ -4,6 +4,6 @@ Doge is a Atom Package that shows you a picture of doge if your cursor is curren
 
 _Much Atom. So text. wow._
 
-![wow](atom://doge/assets/screen_shot.png)
+![wow](/assets/screen_shot.png)
 
 ## Installation
